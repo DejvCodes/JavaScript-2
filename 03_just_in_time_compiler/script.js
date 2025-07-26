@@ -12,6 +12,7 @@ for (let i = 0; i < 1000; i++) {
 
 /*
 Just in time compiler (JIT)
+• JS je Interpretovaný (exituje JIT)
 • součástí JS enginu
 • je typ kompilátoru, který během běhu programu překládá JS kód (nebo jeho část) 
   z AST nebo bytecode do strojového kódu, aby urychlil jeho vykonávání 
