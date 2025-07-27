@@ -14,8 +14,8 @@ const multiplication = (number) => {
 
 const calculation = () => {
     const sum = 2 + 5;
-    const result = multiplication(sum)
-    return result
+    const result = multiplication(sum);
+    return result;
 }
 
 calculation();
