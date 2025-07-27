@@ -12,7 +12,6 @@ const multiplication = (number) => {
     return number * 10;
 }
 
-
 const calculation = () => {
     const sum = 2 + 5;
     const result = multiplication(sum)
