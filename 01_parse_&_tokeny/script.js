@@ -21,7 +21,7 @@ JS engine
   2.Parsuje se                     5.Profiler
   3.Abstract Syntax Tree (AST)     6.Compiler -> převede na jedničky a nuly
 
-Co je parsování?
+Co je Parse?
 • rozparsování prvků na tzv. tokeny
 • proces převodu zdrojovéko kódu JS do AST
 
