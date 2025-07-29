@@ -39,5 +39,5 @@ window.setInterval(() => {
 }, 2000);
 
 setInterval(() => {
-    console.log('test ');
+    console.log('test');
 }, 2000);
