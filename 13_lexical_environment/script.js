@@ -4,7 +4,7 @@ Execution context
 • globální kontext
 
 Lexical environment
-• execution context nám říká, který lexical environmentzrovna teď běží
+• execution context nám říká, který lexical environment zrovna teď běží
 • je koncept, který v JS říká, jak má ukládat proměnné a jak má řídit jejich dosah.
 */
 
