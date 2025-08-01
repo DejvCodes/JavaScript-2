@@ -16,8 +16,8 @@ Funkční scope
 */
 
 const firstFunction = () => {
-    const firstName = 'Dejv';
-    console.log(firstName);
+  const firstName = 'Dejv';
+  console.log(firstName);
 }
 
 firstFunction();
