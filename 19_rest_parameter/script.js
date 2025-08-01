@@ -6,7 +6,7 @@ Rest parameter
 const firstFunction = (firstName, secondName, ...rest) => {
     console.log(firstName, secondName, rest);
 }
-firstFunction('David', 'Dejv', 'jsem front-end developer', 'ČR');
+firstFunction('David', 'Dejv', 'jsem front-end developer', 'ČR'); 
 
 console.log('--------------------------------');
 

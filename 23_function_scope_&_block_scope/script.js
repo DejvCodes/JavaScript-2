@@ -5,7 +5,7 @@ Scope
 • globální scope
 
 • funkční scope - lokální a vnořený
-• block scope - lokální a vnořený
+• block scope - lokální a vnořený 
 */
 
 /*

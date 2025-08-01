@@ -6,7 +6,7 @@ Scope
 
 • funkční scope - lokální a vnořený
 • block scope - lokální a vnořený
-*/
+*/ 
 
 // Vnořený scope
 const age = 23; // globální scope

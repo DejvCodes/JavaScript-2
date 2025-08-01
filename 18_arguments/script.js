@@ -6,7 +6,7 @@ Arguments a functions
 • with
 • for in
 • delete
-*/
+*/ 
 
 // arguments - function declaration
 function firstFunction (firstName, secondName){ // má dva paramentry
