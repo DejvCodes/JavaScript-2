@@ -1,6 +1,5 @@
 /*
 Asynchronní JavaScript
-• 
 */
 
 console.log(1); // sync
