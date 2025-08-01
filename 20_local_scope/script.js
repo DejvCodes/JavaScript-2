@@ -4,8 +4,8 @@ Scope
 • vnořený scope
 • globální scope
 
-• funkční scope
-• block scope
+• funkční scope - lokální a vnořený
+• block scope - lokální a vnořený
 */
 
 // Lokální scope

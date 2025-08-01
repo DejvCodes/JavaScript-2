@@ -24,3 +24,9 @@ const firstFunction = () => {
 }
 
 firstFunction();
+
+/*
+Globální scope 
+• znamená, že proměnná je deklarována mimo jakoukoliv funkci 
+  nebo blok – díky tomu je přístupná odkudkoliv v kódu
+*/
