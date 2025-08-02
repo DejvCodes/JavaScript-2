@@ -40,6 +40,5 @@ if (true) {
     console.log(age);  // přístupné – je ve stejném (vnitřním) scope
     console.log(age1); // přístupné – je z nadřazeného (vnějšího) scope
   }
-
   // console.log(age); // ReferenceError – age není dostupné mimo vnitřní blok
 }

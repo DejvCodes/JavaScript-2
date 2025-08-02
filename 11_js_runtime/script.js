@@ -29,5 +29,4 @@ setTimeout(() => {
 }, 0);
 console.log(3);
 
-
 // Výstup 1 3 2

@@ -5,7 +5,7 @@
   odstranění funkce dát pryč z paměti
 • pokud nepotřebujeme proměnnou mimo funkci, vždy ji omezíme na lokální rozsah
 • globální proměnné jsou trvale dosažitelné, takže hrozí memory leak, pokud 
-  je plníme daty, která už nejsou potřeba.
+  je plníme daty, která už nejsou potřeba
 */
 let a = 10;
 console.log(a);

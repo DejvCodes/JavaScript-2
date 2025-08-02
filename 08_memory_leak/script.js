@@ -5,7 +5,7 @@ Memory leak
 • únik paměti
 • nastává, když tato data zůstanou v heapu, i když už nejsou potřebná, 
   kvůli nechtěným referencím – což může postupně vyčerpávat paměť a 
-  zpomalovat aplikaci.
+  zpomalovat aplikaci
 */
 
 // Špatný přístup ke garbage collectoru

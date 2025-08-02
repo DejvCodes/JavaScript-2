@@ -5,7 +5,7 @@ Memory heap
 • paměť kam se potřebné věci dají uloži
 
 • je oblast v paměti, kam JS ukládá dynamicky alokovaná data – jako objekty, funkce nebo 
-  uzly DOMu a kde správa paměti probíhá pomocí garbage collectoru.
+  uzly DOMu a kde správa paměti probíhá pomocí garbage collectoru
 */
 
 const age = 23;
@@ -26,7 +26,7 @@ Memory heap a garbage collector
 Garbage collector
 • je automatický nástroj v JS enginu, který pravidelně uvolňuje 
   paměť tím, že odstraňuje objekty a data, ke kterým už ve kódu 
-  neexistuje žádný odkaz.
+  neexistuje žádný odkaz
 */
 
 const garbageCollecotrExample = () => {
