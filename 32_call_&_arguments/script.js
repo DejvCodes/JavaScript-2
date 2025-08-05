@@ -1,19 +1,16 @@
 /*
 Call, apply, bind
 */
+
 const teacher = {
     index: 'Učitel',
     firstName: 'David',
     secondName: 'Kalmus',
     points: 0,
-    givePoints: function() {
-        return this.points += 10;
+    givePoints: function(num1, num2) {
+        return this.points += num1 + num2;
     }
 }
-
-console.log(teacher);
-teacher.givePoints();
-console.log(teacher);
 
 const student = {
     index: 'Žák',
@@ -23,5 +20,5 @@ const student = {
 }
 
 console.log(student);
-teacher.givePoints.call(student);
+teacher.givePoints.call(student, 10, 15);
 console.log(student);

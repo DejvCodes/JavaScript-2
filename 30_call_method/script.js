@@ -5,6 +5,8 @@ Call metoda
 • je metoda, která umožňuje spustit funkci s vlastním this 
   kontextem – tedy určit, na jaký objekt se this bude odkazovat 
   během volání funkce
+• okamžitě spustí funkci s nastaveným this
+• argumenty se předávají odděleně
 */
 
 function a() {
