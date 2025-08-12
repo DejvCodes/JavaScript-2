@@ -3,7 +3,7 @@ Higher-Order Function (HOF) v JS
 • je funkce, která buď přijímá jinou funkci jako argument, nebo 
   vrací jinou funkci (nebo obojí)
 • opírá se o to, že funkce jsou v JS first-class citizens
-*/
+*/ 
 
 // 1. map -> původní pole
 const numbers = [1, 2, 3, 4, 5];
