@@ -83,4 +83,4 @@ console.log(ordinaryPerson.__proto__.makeSoftAttack()); // 3
 Rozdíl:
 prototype – vlastnost funkce (konstruktoru), používaná při vytváření nových objektů pomocí new
 __proto__ – odkaz každého objektu na jeho prototyp (není doporučeno používat přímo, místo toho Object.getPrototypeOf)
-*/  
+*/   
