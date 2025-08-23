@@ -5,7 +5,6 @@ Object.create
 
 Souvislosti s prototypem
 */
-
 const wizardFunction = {
     attack() {
         return 'Útok pomocí kouzla ' + this.spell;
