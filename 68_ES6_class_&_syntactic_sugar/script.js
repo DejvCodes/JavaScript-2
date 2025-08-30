@@ -7,7 +7,6 @@ Classy se také označují jako syntactic sugar
 */
 
 class Wizard {
-    
     constructor(firstName, mySpell) {
         this.name = firstName;
         this.spell = mySpell;
@@ -16,7 +15,6 @@ class Wizard {
     attack() {
         return 'Útok pomocí kouzla ' + this.spell;
     }
-
     // attack() {
     //     const self = this; // closures
     //     return function magic() {
