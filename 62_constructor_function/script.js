@@ -8,13 +8,20 @@ Constructor function
 function CreateWizard(firstName, mySpell) {
     this.name = firstName;
     this.spell = mySpell;
+
+    // return 'David'
+
+    return {
+        firstName: 'David',
+        secondName: 'Kalmus'
+    };
 }
 
 const wizard = new CreateWizard('DAVO', 'abraka');
 
 console.log(wizard);
-console.log(wizard.name);
-console.log(wizard.spell);
+// console.log(wizard.name);
+// console.log(wizard.spell);
 
 /*
 Znaky Constructor function 
