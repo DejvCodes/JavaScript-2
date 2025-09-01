@@ -36,7 +36,7 @@ const wizard = {
         console.log('Special ' + this.firstName);
     }
 
-    // special: function() { 
+    // special: function() {
     //     console.log('Special ' + this.set);
     // }.bind(window),
 }
