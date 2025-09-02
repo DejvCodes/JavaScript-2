@@ -54,3 +54,15 @@ const voldemort = new EvilWizard('Voldemort', 'avada', 10);
 console.log(voldemort); // EvilWizard {name: 'Voldemort', spell: 'avada', dangerLevel: 10}
 console.log(voldemort.attack()); // Útok pomocí kouzla avada
 console.log(voldemort.speak()); // Harry, jdu do baráku!!!
+
+console.log('-------------------');
+
+console.log(wizard1 instanceof Wizard); // true
+console.log(wizard1 instanceof WizardTeacher); // true
+console.log(wizard1 instanceof EvilWizard); // false
+
+console.log('-------------------');
+
+console.log(voldemort instanceof Wizard); // true
+console.log(voldemort instanceof WizardTeacher); // false
+console.log(voldemort instanceof EvilWizard); // true
