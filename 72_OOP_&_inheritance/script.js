@@ -1,4 +1,10 @@
 /*
+Principy OOP - Object-oriented programming
+• dědičnost (inheritance)
+• zapouzdření (encapsulation)
+• abstrakce (abstraction)
+• polymorfismus (polymorphism)
+
 Inheritance (dědění)
 • dědění v JS funguje díky prototype chain – instance má přístup ke svému prototypu a ten 
   může mít další prototypy, čímž vzniká řetěz dědění

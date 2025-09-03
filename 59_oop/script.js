@@ -11,7 +11,7 @@ const wizard = {
     spell: 'abraka',
     attack() {
         return 'Útok pomocí kouzla ' +  this.spell;
-        // return 'Útok pomocí kouzla ' + wizard.spell;
+        // return 'Útok pomocí kouzla ' + wizard.spell; 
     }
 }
 
