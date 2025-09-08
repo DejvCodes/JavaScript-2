@@ -4,6 +4,13 @@ Principy OOP - Object-oriented programming
 • zapouzdření (encapsulation)
 • abstrakce (abstraction)
 • polymorfismus (polymorphism)
+
+Encapsulation (zapouzdření)
+• princip OOP, kdy vnitřní data objektu držíme skrytá a přístup k nim řídíme přes 
+  veřejné metody
+• jak ochránit data uvnitř objektu
+• vnitřní stav je skrytý a manipulace probíhá jen přes metody třídy/objektu
+• cíl: bezpečnost a kontrola přístupu
 */
 
 class BankAccount {

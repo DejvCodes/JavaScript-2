@@ -6,8 +6,11 @@ Principy OOP - Object-oriented programming
 • polymorfismus (polymorphism)
 
 Inheritance (dědění)
-• dědění v JS funguje díky prototype chain – instance má přístup ke svému prototypu a ten 
-  může mít další prototypy, čímž vzniká řetěz dědění
+• dědění v JS funguje díky prototype chain – instance má přístup ke svému prototypu 
+  a ten může mít další prototypy, čímž vzniká řetěz dědění
+• jak sdílet kód mezi třídami/objekty
+• umožňuje, aby jedna třída (subclass) převzala vlastnosti a metody z jiné třídy (superclass)
+• cíl: znovupoužití kódu
 */
 
 // Wizard je tzv. super class
