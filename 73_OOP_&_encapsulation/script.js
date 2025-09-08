@@ -52,4 +52,4 @@ console.log(account1.movements); // [500, 300, -200]
 console.log(account1.income); // 800
 console.log(account1.expense); // -200
 
-// console.log(account1.#addMovement(1200)); // Private field '#addMovement' 
+// console.log(account1.#addMovement(1200)); // Private field '#addMovement'
