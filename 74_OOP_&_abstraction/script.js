@@ -10,7 +10,7 @@ Abstraction (abstrakce)
   detaily implementace zůstávají skryté
 • jak skrýt složitost a ukázat jen to podstatné
 • uživatel používá jednoduché rozhraní, aniž by znal vnitřní detaily implementace
-• cíl: jednoduchost a čitelnost
+• cíl: jednoduchost a čitelnost 
 */
 
 class Account {
