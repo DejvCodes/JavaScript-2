@@ -42,7 +42,7 @@ class BusinessAccount extends Account {
 
 } 
 
-const bankAcc1 = new BankAccount('David', 'Kalmus', 1234);
-console.log(bankAcc1.firstName); // David
-console.log(bankAcc1.secondName); // Kalmus
-console.log(bankAcc1.pin); // 1234
+const bankAccount1 = new BankAccount('David', 'Kalmus', 1234);
+console.log(bankAccount1.firstName); // David
+console.log(bankAccount1.secondName); // Kalmus
+console.log(bankAccount1.pin); // 1234
