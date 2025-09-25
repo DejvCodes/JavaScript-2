@@ -14,7 +14,7 @@ Promise.all()
 For await...of
 • slouží k iteraci přes víc Promisů, ale sekvenčně (po jednom)
 • čeká na vyřešení každého Promise, než přejde na další
-• funguje jen uvnitř async funkce
+• funguje jen uvnitř async funkce 
 */
 const fetchData = async () => {
     for await (const url of api) { 
