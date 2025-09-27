@@ -1,5 +1,5 @@
 ## Advanced JavaScript
-• Kurz - David Šetek
+• Course - David Šetek
 
 ## 🔐 License 
 [MIT License](LICENSE)
