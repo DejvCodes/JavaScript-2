@@ -1,5 +1,5 @@
 ## Advanced JavaScript
-• Course - David Šetek
+• Course - David Šetek 
 
 ## 🔐 License 
 [MIT License](LICENSE)
