@@ -20,7 +20,7 @@ console.log("C");
 Výstup A C B
 
 • setTimeout běží mimo call stack (ve Web API), a výstup B se dostane 
-  zpět do fronty až po dokončení hlavního kódu (díky event loopu
+  zpět do fronty až po dokončení hlavního kódu (díky event loopu)
 */
 
 console.log(1);

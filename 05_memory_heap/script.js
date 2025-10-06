@@ -25,7 +25,7 @@ Memory heap a garbage collector
 
 Garbage collector
 • je automatický nástroj v JS enginu, který pravidelně uvolňuje 
-  paměť tím, že odstraňuje objekty a data, ke kterým už ve kódu 
+  paměť tím, že odstraňuje objekty a data, ke kterým už v kódu 
   neexistuje žádný odkaz
 */
 
