@@ -13,7 +13,7 @@ function a() {
     console.log('Funkce A');
 }
 
-const b =() => {
+const b = () => {
     console.log('Funkce B');
 }
 

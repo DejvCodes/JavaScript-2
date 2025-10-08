@@ -2,7 +2,8 @@
 Call, apply, bind
 
 Bind
-• nevykoná funkci hned. Vrátí novou funkci, kde je this navázán (bound)
+• nevykoná funkci hned
+• vrátí novou funkci, kde je this navázán (bound)
 • užitečné pro pozdější použití nebo jako callback
 • vrací funkci pro její použití v budoucnu
 */

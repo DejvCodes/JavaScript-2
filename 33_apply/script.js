@@ -23,9 +23,9 @@ const student = {
     points: 0
 }
 
-console.log(student);
+console.log(student); // {index: 'Žák', firstName: 'Dan', secondName: 'Rozkošný', points: 0}
 teacher.givePoints.apply(student, [10, 15]);
-console.log(student);
+console.log(student); // {index: 'Žák', firstName: 'Dan', secondName: 'Rozkošný', points: 25}
 
 const numbers = [1, 10, 2, 8];
 

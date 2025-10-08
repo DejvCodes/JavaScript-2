@@ -11,7 +11,7 @@ var
 
 let a const
 • deklarace je hoistovaná, ale není inicializovaná
-• dokud se nedojde k deklaraci v kódu, proměnná je v tzv. TDZ 
+• dokud nedojde k deklaraci v kódu, proměnná je v tzv. TDZ 
  (Temporal Dead Zone) – jakýkoliv pokus o přístup skončí chybou
 */
 

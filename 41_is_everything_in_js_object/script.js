@@ -19,14 +19,14 @@ console.log(booleanObject.toString());
 console.log('-----------------');
 
 // Primitivní datové typy
-console.log(typeof 'David');  // object
-console.log(typeof 10);  // object
-console.log(typeof true);   // object
-console.log(typeof undefined);  // undefined
-console.log(typeof null); // object
-console.log(typeof Symbol('test'));  // Symbol
+console.log(typeof 'David');        // string 
+console.log(typeof 10);             // number
+console.log(typeof true);           // boolean
+console.log(typeof undefined);      // undefined
+console.log(typeof null);           // object (bug v JS)
+console.log(typeof Symbol('test')); // symbol 
 
-// Neprimitivní datové typy
-console.log(typeof {});  // object
-console.log(typeof []);  // object
-console.log(typeof function () {});  // object
+// Neprimitivní datové typy (všechny jsou objekty)
+console.log(typeof {});                 // object 
+console.log(typeof []);                 // object 
+console.log(typeof function (){});     // function (speciální typ objektu)
