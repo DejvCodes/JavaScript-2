@@ -6,7 +6,7 @@ Interview
 • Proč metodu attack nedáme do constructoru?
   - do constructoru dáváme jen data
   - vyhneme se zbytečné duplikaci v paměti
-  - Metody píšeme do class/prototype, aby se neserializovaly 
+  - metody píšeme do class/prototype, aby se neserializovaly 
     do každé instance znovu
 */
 

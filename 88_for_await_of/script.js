@@ -7,7 +7,7 @@ const api = [
 /*
 Promise.all()
 • spustí víc Promisů najednou (paralelně)
-• vrátí nový Promise, který se resolve teprve tehdy, když se všechny Promisy 
+• vrátí nový Promise, který se resolvne teprve tehdy, když se všechny Promisy 
   úspěšně dokončí
 • pokud alespoň jeden selže (reject), selže i celý Promise.all()
 

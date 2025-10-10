@@ -19,12 +19,12 @@ Callable Object v JS
 Základní definice:
 • callable object = objekt, který se chová jako funkce – lze ho zavolat pomocí ()
 
-Callable Object -> ukázka:
-
+Callable Object -> ukázka:*/
 const specialObject = {
     a: 10,
     b: 'string',
     name: 'four',
-    ()): console.log('test')
-}
-*/
+    '()': () => console.log('test')
+};
+
+console.log(specialObject) // {a: 10, b: 'string', name: 'four', (): ƒ}

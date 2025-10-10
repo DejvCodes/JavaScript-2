@@ -27,7 +27,7 @@ console.log('----------------------------------');
 3. reduce
 • pokud je zadaná hodnota (v tomto případě 0), je to hodnota, 
   se kterou reduce začne
-• pokud není zadaná, použije první prvek pole jako počáteční hodnoru a 
+• pokud není zadaná, použije první prvek pole jako počáteční hodnotu a 
   iterace začne druhým prvkem
 */
 const numbers3 = [1, 2, 3, 4, 5];

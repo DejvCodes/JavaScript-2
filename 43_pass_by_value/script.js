@@ -15,7 +15,7 @@ console.log(b); // 5
 
 /*
 pass by reference
-• U neprimitivních typů (např. object, array, function) JS předává referenci – tj. 
+• u neprimitivních typů (např. object, array, function) JS předává referenci – tj. 
   ukazatel na stejná data v paměti
 • změna jedné proměnné ovlivní i druhou
 */
