@@ -17,7 +17,7 @@ Promise.resolve('Start')
         console.log('3:', value);
     })
     .catch((err) => {
-        console.error('Konečná chyba', err);
+        console.error('Konečná chyba', err); 
     })
 
 console.log('Konec'); // Bude první protože předtím je async kód
