@@ -143,11 +143,6 @@ This repository contains 96 hands-on lessons progressing from JavaScript engine 
 • Error Catch – Catch block patterns <br>
 • Error Async & Await – Modern error handling <br>
 
-## 🎯 Learning Path
-**Beginner -> Intermediate:** Start with lessons 01-29 to understand JavaScript fundamentals, execution, and scope. <br>
-**Intermediate -> Advanced:** Continue with lessons 30-56 for advanced function patterns and closures. <br>
-**Advanced:** Complete lessons 57-96 for OOP, async programming, and professional error handling. <br>
-
 ## 🏃🏻 How to Run this App
 1. Clone the repository: <br>
    • `git clone https://github.com/DejvCodes/JavaScript_#2.git` <br>
