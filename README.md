@@ -1,5 +1,5 @@
 ## JavaScript - Advanced Concepts & Deep Dive
-A comprehensive JavaScript learning repository covering advanced concepts, internal mechanisms, and professional patterns. <br>
+A comprehensive JavaScript learning repository covering advanced concepts, internal mechanisms, and professional patterns. 
 This repository contains 96 hands-on lessons progressing from JavaScript engine internals to asynchronous programming and error handling.
 
 ## 🚀 Features
