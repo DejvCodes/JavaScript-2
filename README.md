@@ -155,7 +155,7 @@ This repository contains 96 hands-on lessons progressing from JavaScript engine 
 2. Navigate to a specific topic: <br>
    • `cd 01_parse_&_tokeny` or any numbered directory <br>
 3. Run JavaScript files: <br>
-   • open index.html in a live server or browser
+   • open index.html in a live server or browser <br>
    • or use Live Server extension in VS Code
 
 ## 💻 Tech Stack
